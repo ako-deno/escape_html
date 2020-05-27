@@ -8,7 +8,7 @@ Escape string for use in HTML for Deno, compatible with Browser. Based on `https
 ## API
 
 ```js
-import { escapeHtml } from "https://raw.githubusercontent.com/ako-deno/escape_html/master/mod.ts";
+import { escapeHtml } from "https://deno.land/x/escape_html/mod.ts";
 ```
 
 ### escapeHtml(string: string): string
@@ -35,7 +35,7 @@ The `escapeHtml` function is designed to accept a string input of text and
 return an escaped value to interpolate into HTML.
 
 ```js
-import { escapeHtml } from "https://raw.githubusercontent.com/ako-deno/escape_html/master/mod.ts";
+import { escapeHtml } from "https://deno.land/x/escape_html/mod.ts";
 
 // example values
 const desc = "I <b>think</b> this is good.";
