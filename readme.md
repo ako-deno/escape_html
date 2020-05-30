@@ -2,6 +2,7 @@
 
 [![tag](https://img.shields.io/github/tag/ako-deno/escape_html.svg)](https://github.com/ako-deno/escape_html/tags)
 ![escape_html-ci](https://github.com/ako-deno/escape_html/workflows/escape_html-ci/badge.svg)
+[![HitCount](http://hits.dwyl.com/ako-deno/escape_html.svg)](http://hits.dwyl.com/ako-deno/escape_html)
 
 Escape string for use in HTML for Deno, compatible with Browser. Based on `https://github.com/component/escape-html`.
 
